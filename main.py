@@ -13,7 +13,7 @@ st.set_page_config(page_title='Health Insurance Cost Predictor', page_icon='🩺
 # Get base64 of the image for the background
 img_base64 = get_base64_of_image(r"C:\Users\peter\ML_PROJECT_PREMIUM_PREDICTION\61802.jpg")
 
-# Apply CSS for the background image with 50% transparency
+# Apply CSS for the background image with 80% transparency
 st.markdown(f"""
     <style>
         .stApp {{
