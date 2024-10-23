@@ -148,7 +148,7 @@ with center_button[1]:
         st.balloons()
 
         st.markdown(f"""
-    <div style="text-align: center; font-size: 18px; color: black; font-weight: bold; margin-left: -50px;">
+    <div style="text-align: center; font-size: 21px; color: black; font-weight: bold; margin-left: -10px;">
         💰 Predicted Health Insurance Cost: ₹{prediction:,.2f}
     </div>
 """, unsafe_allow_html=True)
