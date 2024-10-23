@@ -11,7 +11,7 @@ def get_base64_of_image(image_path):
 st.set_page_config(page_title='Health Insurance Cost Predictor', page_icon='🩺', layout='wide')
 
 # Get base64 of the image for the background
-img_base64 = get_base64_of_image(r"C:/Users/peter/ML_PROJECT_PREMIUM_PREDICTION/61802.jpg")
+img_base64 = get_base64_of_image(r"ML_PROJECT_PREMIUM_PREDICTION/61802.jpg")
 
 # Apply CSS for the background image with 80% transparency
 st.markdown(f"""
