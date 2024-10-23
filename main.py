@@ -24,7 +24,7 @@ st.markdown(f"""
             opacity: 0.8;
         }}
         h1, h2 {{
-            color: #00008B !important;
+            color: #000000 !important;
         }}
         h3 {{
             color: #00008B !important;
